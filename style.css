@@ -96,15 +96,5 @@ img{
 }
 .photo:hover{
     transition: all 0.5s ease-in-out;
-    transform: scale(1.1);
-}
-
-#fortrans{
-    transition: all 0.5s ease-in-out;
-    transform: scale(1.1); 
-}
-
-#fortrans:hover{
-    transition: all 0.5s ease-in-out;
-    transform: scale(1.1);
+    transform:scale(1.1);
 }
