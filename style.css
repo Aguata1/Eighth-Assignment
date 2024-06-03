@@ -30,9 +30,11 @@
 }
 .cloud{
     height: 40px;
+margin-left: 800px;
 }
 .cloud1{
     height: 40px;
+    margin-right: 850px;
 }
 .first{
     height: 80vh;
@@ -97,4 +99,8 @@ img{
 .photo:hover{
     transition: all 0.5s ease-in-out;
     transform:scale(1.1);
+}
+
+a{
+    text-decoration: none;
 }
